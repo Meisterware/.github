@@ -4,9 +4,9 @@ This repository contains organisation-wide community health files and templates 
 
 Included files:
 
-• Issue templates
-• Pull request templates
-• Security policy
-• Code of conduct
-• Contribution guidelines
-• Organization profile README
+- Issue templates
+- Pull request templates
+- Security policy
+- Code of conduct
+- Contribution guidelines
+- Organization profile README
